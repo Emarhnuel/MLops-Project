@@ -1,0 +1,30 @@
+Folder PATH listing
+Volume serial number is 3C56-3AB7
+C:.
+¦   pipeline.py
+¦   predict.py
+¦   structure.txt
+¦   training_pipeline.py
+¦   __init__.py
+¦   
++---config
+¦   ¦   config.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---__pycache__
+¦           config.cpython-311.pyc
+¦           __init__.cpython-311.pyc
+¦           
++---datasets
+¦       test.csv
+¦       train.csv
+¦       __init__.py
+¦       
++---processing
+¦       data_handling.py
+¦       preprocessing.py
+¦       __init__.py
+¦       
++---trained_models
+        __init__.py
+        
